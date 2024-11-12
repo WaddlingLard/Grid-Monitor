@@ -1,17 +1,17 @@
 ****************
-* PROJECT1/GridMonitor
+* PROJECT: GridMonitor
 * CS 221
 * 1/21/2022
 * Brian Wu
 **************** 
 
-OVERVIEW:
+## OVERVIEW:
 
  The GridMonitor is a class that takes cell values from a text file and scans them.
  It then outputs several grids that provide information on sums, averages, deltas, and danger levels.
 
 
-INCLUDED FILES:
+## INCLUDED FILES:
 
  GridMonitor.java - source file
  GridMonitorTest.java - source file
@@ -19,7 +19,7 @@ INCLUDED FILES:
  README - this file
 
 
-BUILDING AND RUNNING:
+## BUILDING AND RUNNING:
 
  When you are in folder with all the contents use this command
  to compile the code:
@@ -31,7 +31,7 @@ BUILDING AND RUNNING:
  Console output will report the data from the GridMonitor.
  
 
-PROGRAM DESIGN:
+## PROGRAM DESIGN:
 
  The GridMonitor class implements the GridMonitorInterface so most of the
  documentation is established in the interface. The program is relatively simple,
@@ -54,7 +54,7 @@ PROGRAM DESIGN:
  wouldn't ever need to use it.
  
 
-TESTING:
+## TESTING:
 
  Making testing files was the key to producing a consistent output that is 
  precise and accurate. This program does not take into a complete account
@@ -73,7 +73,7 @@ TESTING:
  there is more to fix, and that will happen in the near future.
 
 
-DISCUSSION:
+## DISCUSSION:
  
  I'm somewhat accustomed to test-driven development, but in CS221 it
  makes projects a lot more in depth requiring more than the bare minimum.
